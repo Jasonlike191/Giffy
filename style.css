@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.logo-image{
+    width: 240px;
+    height: 30px;
+    border-radius: 100%;
+    overflow: false;
+    margin-top: 1px;
+}
+.midway-image{
+    width: 300px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: false;
+    margin-top: 10px;
+}
+
+#site-footer {
+height: 245px;
+background: #d7d0d0;
+
+}
+.navbar{
+height: 80px; 
+}
+.hidden {
+  display: none;
+}
